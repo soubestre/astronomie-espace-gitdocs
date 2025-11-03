@@ -1,10 +1,17 @@
 # Test Document
 
-This is the original version created at 2025-11-03T10:17:57.121Z.
+This is the original version created at 2025-11-03T10:17:57.122Z.
 
 ## Original Content
 
 This content will be modified in a proposal.
 
+## New Section Added
+
+This is new content added via a proposal!
+
+The proposal workflow allows collaborative editing with review.
+
 ---
-**Version**: 1.0
+**Version**: 2.0
+**Modified**: 2025-11-03T10:17:57.122Z
